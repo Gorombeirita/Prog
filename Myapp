@@ -13,8 +13,8 @@ namespace MyApplication
             t = new int[th];
             for (int i = 0; i < t.Length; i++)
             {
-                _ = new Alpha();
-                t[i] = Alpha.randNum;
+                _ = new Oszt();
+                t[i] = Oszt.randNum;
             }
            
             Console.WriteLine("Rendezettlen tömb:");
